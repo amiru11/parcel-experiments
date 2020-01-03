@@ -16,9 +16,11 @@
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "cssnano": "^4.1.10",
     "sass": "^1.24.1"
   },
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html -d build --public-url ./"
   }
 }
