@@ -4,8 +4,8 @@
 
 - React ✅
 - ES6 with Babel ✅
-- SCSS
-- CSS Modules
+- SCSS ✅
+- CSS Modules with [PostCSS](https://postcss.org/) ✅
 - Typography.js
 - Build for production
 
