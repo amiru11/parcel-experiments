@@ -8,3 +8,5 @@
 - CSS Modules
 - Typography.js
 - Build for production
+
+## From [nomad coder](https://academy.nomadcoders.co/)
