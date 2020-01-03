@@ -2,6 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./src/App";
 
+import typography from "./typography";
+
 ReactDOM.render(<App />, document.getElementById("root"));
 // App이 뭔지 모르기 때문에 Babel 설정해주기 .babelrc
 /**
